@@ -57,6 +57,10 @@
 - 部署发布
 
 
+# 一些文章
+
+- [AutoML: Automating the design of machine learning models for autonomous driving](https://medium.com/waymo/automl-automating-the-design-of-machine-learning-models-for-autonomous-driving-141a5583ec2a) waymo用automl来设计自动驾驶里的模型。在LiDAR任务上做的，先找代理任务，用到随机搜索和RL来找出top100的模型，然后用原始数据训练，得到top1。
+
 # 开源项目与资料
 
 资料：
